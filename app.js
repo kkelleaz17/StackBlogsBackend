@@ -9,7 +9,7 @@ const cors = require('cors');
 
 app.use(
   cors({
-    origin: 'https://654437f290262812811f2f40--prismatic-moonbeam-5b83dd.netlify.app/',
+    origin: 'https://65454aadcc32cb1b9d8990ca--stackblogs.netlify.app/',
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
   })
