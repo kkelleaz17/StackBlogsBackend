@@ -9,7 +9,7 @@ const cors = require('cors');
 
 app.use(
   cors({
-    origin: 'http://localhost:5173',
+    origin: 'https://65443d567b6f0c1157a8196c--rainbow-gumption-90a8b0.netlify.app/',
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     credentials: true,
   })
