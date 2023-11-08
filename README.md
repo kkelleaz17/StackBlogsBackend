@@ -23,6 +23,6 @@ StackBlogs Backend is the server component of the StackBlogs web application. It
 1. Clone this repository to your local machine.
 2. Install the backend dependencies using a package manager (e.g., npm or yarn):
 
-   ```bash
-   npm install
+   ```node
+   npm i bcrypt body-parser cors dotenv express mongoose nodemon
    
